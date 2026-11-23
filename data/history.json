@@ -9,7 +9,8 @@
     "actual": 2,
     "inspection_result": "不适用",
     "wait_hours": 1,
-    "available": "W02"
+    "available": "W02",
+    "dispatch_group": "DSP00"
   },
   {
     "lot": "L011",
@@ -21,7 +22,8 @@
     "actual": 4,
     "inspection_result": "通过",
     "wait_hours": 2,
-    "available": "W02"
+    "available": "W02",
+    "dispatch_group": "DSP00"
   },
   {
     "lot": "L012",
@@ -33,7 +35,8 @@
     "actual": 6,
     "inspection_result": "不适用",
     "wait_hours": 3,
-    "available": "W02"
+    "available": "W02",
+    "dispatch_group": "DSP00"
   },
   {
     "lot": "L020",
@@ -45,7 +48,8 @@
     "actual": 2,
     "inspection_result": "不适用",
     "wait_hours": 2,
-    "available": "W03"
+    "available": "W03",
+    "dispatch_group": "DSP00"
   },
   {
     "lot": "L021",
@@ -57,7 +61,8 @@
     "actual": 5,
     "inspection_result": "通过",
     "wait_hours": 3,
-    "available": "W03"
+    "available": "W03",
+    "dispatch_group": "DSP00"
   },
   {
     "lot": "L022",
@@ -69,7 +74,8 @@
     "actual": 5,
     "inspection_result": "不适用",
     "wait_hours": 4,
-    "available": "W03"
+    "available": "W03",
+    "dispatch_group": "DSP00"
   },
   {
     "lot": "L030",
@@ -81,7 +87,8 @@
     "actual": 3,
     "inspection_result": "不适用",
     "wait_hours": 3,
-    "available": "W04"
+    "available": "W04",
+    "dispatch_group": "DSP01"
   },
   {
     "lot": "L031",
@@ -93,7 +100,8 @@
     "actual": 4,
     "inspection_result": "需返检",
     "wait_hours": 4,
-    "available": "W04"
+    "available": "W04",
+    "dispatch_group": "DSP01"
   },
   {
     "lot": "L032",
@@ -105,7 +113,8 @@
     "actual": 5,
     "inspection_result": "不适用",
     "wait_hours": 5,
-    "available": "W04"
+    "available": "W04",
+    "dispatch_group": "DSP01"
   },
   {
     "lot": "L040",
@@ -117,7 +126,8 @@
     "actual": 3,
     "inspection_result": "不适用",
     "wait_hours": 0,
-    "available": "W05"
+    "available": "W05",
+    "dispatch_group": "DSP01"
   },
   {
     "lot": "L041",
@@ -129,7 +139,8 @@
     "actual": null,
     "inspection_result": "通过",
     "wait_hours": 1,
-    "available": "W05"
+    "available": "W05",
+    "dispatch_group": "DSP01"
   },
   {
     "lot": "L042",
@@ -141,7 +152,8 @@
     "actual": 7,
     "inspection_result": "不适用",
     "wait_hours": 2,
-    "available": "W05"
+    "available": "W05",
+    "dispatch_group": "DSP01"
   },
   {
     "lot": "L050",
@@ -153,7 +165,8 @@
     "actual": 3,
     "inspection_result": "不适用",
     "wait_hours": 1,
-    "available": "W06"
+    "available": "W06",
+    "dispatch_group": "DSP02"
   },
   {
     "lot": "L051",
@@ -165,7 +178,8 @@
     "actual": 6,
     "inspection_result": "通过",
     "wait_hours": 2,
-    "available": "W06"
+    "available": "W06",
+    "dispatch_group": "DSP02"
   },
   {
     "lot": "L052",
@@ -177,7 +191,8 @@
     "actual": 6,
     "inspection_result": "不适用",
     "wait_hours": 3,
-    "available": "W06"
+    "available": "W06",
+    "dispatch_group": "DSP02"
   },
   {
     "lot": "L060",
@@ -189,7 +204,8 @@
     "actual": 4,
     "inspection_result": "不适用",
     "wait_hours": 2,
-    "available": "W07"
+    "available": "W07",
+    "dispatch_group": "DSP02"
   },
   {
     "lot": "L061",
@@ -201,7 +217,8 @@
     "actual": 5,
     "inspection_result": "需返检",
     "wait_hours": 3,
-    "available": "W07"
+    "available": "W07",
+    "dispatch_group": "DSP02"
   },
   {
     "lot": "L062",
@@ -213,7 +230,8 @@
     "actual": 6,
     "inspection_result": "不适用",
     "wait_hours": 4,
-    "available": "W07"
+    "available": "W07",
+    "dispatch_group": "DSP02"
   },
   {
     "lot": "L070",
@@ -225,7 +243,8 @@
     "actual": 4,
     "inspection_result": "不适用",
     "wait_hours": 3,
-    "available": "W08"
+    "available": "W08",
+    "dispatch_group": "DSP03"
   },
   {
     "lot": "L071",
@@ -237,7 +256,8 @@
     "actual": 6,
     "inspection_result": "通过",
     "wait_hours": 4,
-    "available": "W08"
+    "available": "W08",
+    "dispatch_group": "DSP03"
   },
   {
     "lot": "L072",
@@ -249,7 +269,8 @@
     "actual": 8,
     "inspection_result": "不适用",
     "wait_hours": 5,
-    "available": "W08"
+    "available": "W08",
+    "dispatch_group": "DSP03"
   },
   {
     "lot": "L080",
@@ -261,7 +282,8 @@
     "actual": 4,
     "inspection_result": "不适用",
     "wait_hours": 0,
-    "available": "W09"
+    "available": "W09",
+    "dispatch_group": "DSP03"
   },
   {
     "lot": "L081",
@@ -273,7 +295,8 @@
     "actual": 7,
     "inspection_result": "通过",
     "wait_hours": 1,
-    "available": "W09"
+    "available": "W09",
+    "dispatch_group": "DSP03"
   },
   {
     "lot": "L082",
@@ -285,7 +308,8 @@
     "actual": 7,
     "inspection_result": "不适用",
     "wait_hours": 2,
-    "available": "W09"
+    "available": "W09",
+    "dispatch_group": "DSP03"
   },
   {
     "lot": "L090",
@@ -297,7 +321,8 @@
     "actual": 5,
     "inspection_result": "不适用",
     "wait_hours": 1,
-    "available": "W10"
+    "available": "W10",
+    "dispatch_group": "DSP04"
   },
   {
     "lot": "L091",
@@ -309,7 +334,8 @@
     "actual": 6,
     "inspection_result": "需返检",
     "wait_hours": 2,
-    "available": "W10"
+    "available": "W10",
+    "dispatch_group": "DSP04"
   },
   {
     "lot": "L092",
@@ -321,7 +347,8 @@
     "actual": 7,
     "inspection_result": "不适用",
     "wait_hours": 3,
-    "available": "W10"
+    "available": "W10",
+    "dispatch_group": "DSP04"
   },
   {
     "lot": "L100",
@@ -333,7 +360,8 @@
     "actual": 5,
     "inspection_result": "不适用",
     "wait_hours": 2,
-    "available": "W11"
+    "available": "W11",
+    "dispatch_group": "DSP04"
   },
   {
     "lot": "L101",
@@ -345,7 +373,8 @@
     "actual": null,
     "inspection_result": "通过",
     "wait_hours": 3,
-    "available": "W11"
+    "available": "W11",
+    "dispatch_group": "DSP04"
   },
   {
     "lot": "L102",
@@ -357,7 +386,8 @@
     "actual": 9,
     "inspection_result": "不适用",
     "wait_hours": 4,
-    "available": "W11"
+    "available": "W11",
+    "dispatch_group": "DSP04"
   },
   {
     "lot": "L110",
@@ -369,7 +399,8 @@
     "actual": 5,
     "inspection_result": "不适用",
     "wait_hours": 3,
-    "available": "W12"
+    "available": "W12",
+    "dispatch_group": "DSP05"
   },
   {
     "lot": "L111",
@@ -381,7 +412,8 @@
     "actual": 8,
     "inspection_result": "通过",
     "wait_hours": 4,
-    "available": "W12"
+    "available": "W12",
+    "dispatch_group": "DSP05"
   },
   {
     "lot": "L112",
@@ -393,6 +425,7 @@
     "actual": 8,
     "inspection_result": "不适用",
     "wait_hours": 5,
-    "available": "W12"
+    "available": "W12",
+    "dispatch_group": "DSP05"
   }
 ]
