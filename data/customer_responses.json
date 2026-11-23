@@ -1,0 +1,42 @@
+[
+  {
+    "response": "CSR1",
+    "order": "O1",
+    "kind": "部分接受",
+    "time": 41,
+    "accepted_sets": 17,
+    "agreement": "先收货后补件",
+    "max_hour": 77,
+    "debit_cny": 0
+  },
+  {
+    "response": "CSR2",
+    "order": "O1",
+    "kind": "要求补发",
+    "time": 42,
+    "accepted_sets": 0,
+    "agreement": "余量按付款合同",
+    "max_hour": 77,
+    "debit_cny": 0
+  },
+  {
+    "response": "CSR3",
+    "order": "O2",
+    "kind": "可按分批兑现",
+    "time": 55,
+    "accepted_sets": 18,
+    "agreement": "不免除间隔约定",
+    "max_hour": 81,
+    "debit_cny": 0
+  },
+  {
+    "response": "CSR4",
+    "order": "O1",
+    "kind": "逾期扣款确认",
+    "time": 79,
+    "accepted_sets": 0,
+    "agreement": "对未成套部分",
+    "max_hour": 77,
+    "debit_cny": 297
+  }
+]

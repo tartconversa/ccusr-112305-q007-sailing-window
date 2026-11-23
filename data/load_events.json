@@ -1,0 +1,68 @@
+[
+  {
+    "record": "K1",
+    "box": "BX-1",
+    "lot": "C11",
+    "booking": "B1",
+    "sailing": "S1",
+    "kind": "入柜",
+    "hour": 16,
+    "pieces": 28,
+    "references": null
+  },
+  {
+    "record": "K2",
+    "box": "BX-2",
+    "lot": "C12",
+    "booking": "B1",
+    "sailing": "S1",
+    "kind": "入柜",
+    "hour": 18,
+    "pieces": 23,
+    "references": null
+  },
+  {
+    "record": "K3",
+    "box": "BX-2",
+    "lot": "C12",
+    "booking": "B3",
+    "sailing": "S2",
+    "kind": "重发报送",
+    "hour": 20,
+    "pieces": 23,
+    "references": "K2"
+  },
+  {
+    "record": "K4",
+    "box": "BX-1",
+    "lot": "C11",
+    "booking": "B1",
+    "sailing": "S1",
+    "kind": "码头实装",
+    "hour": 30,
+    "pieces": 28,
+    "references": "K1"
+  },
+  {
+    "record": "K5",
+    "box": "BX-2",
+    "lot": "C12",
+    "booking": "B1",
+    "sailing": "S1",
+    "kind": "码头实装",
+    "hour": 31,
+    "pieces": 17,
+    "references": "K2"
+  },
+  {
+    "record": "K6",
+    "box": "BX-3",
+    "lot": "C22",
+    "booking": "B2",
+    "sailing": "S2",
+    "kind": "码头实装",
+    "hour": 49,
+    "pieces": 18,
+    "references": null
+  }
+]

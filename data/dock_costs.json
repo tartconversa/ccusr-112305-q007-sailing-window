@@ -1,0 +1,38 @@
+[
+  {
+    "cost": "COST1",
+    "sailing": "S1",
+    "box": "BX-1",
+    "kind": "实际船费",
+    "amount": 240,
+    "known_at": 36,
+    "actual": true
+  },
+  {
+    "cost": "COST2",
+    "sailing": "S1",
+    "box": "BX-2",
+    "kind": "实际船费",
+    "amount": 180,
+    "known_at": 38,
+    "actual": true
+  },
+  {
+    "cost": "COST3",
+    "sailing": "S2",
+    "box": "BX-2",
+    "kind": "换舱尝试费",
+    "amount": 75,
+    "known_at": 21,
+    "actual": true
+  },
+  {
+    "cost": "COST4",
+    "sailing": "S3",
+    "box": "BX-2",
+    "kind": "补发预估",
+    "amount": 190,
+    "known_at": 47,
+    "actual": false
+  }
+]

@@ -20,3 +20,12 @@ class SourceContractTest(unittest.TestCase):
         self.assertIn(update["lot"], original["lots"])
         self.assertLess(update["hour"], sailing["cancel_h"])
         self.assertGreater(update["new_ready"], sailing["cut_h"])
+
+    def test_short_load_inputs(self):
+        sources = [read_table(name) for name in ['load_events', 'customer_responses', 'carrier_events', 'dock_costs']]
+        records=[x for x in sources[0] if x["box"]=="BX-2"]
+        self.assertEqual([x["kind"] for x in records],["入柜","重发报送","码头实装"])
+        self.assertEqual({x["state"] for x in sources[2] if x["booking"]=="B3"},{"待答复","拒绝"})
+        self.assertTrue(any(x["kind"]=="要求补发" for x in sources[1]))
+        self.assertEqual({x["actual"] for x in sources[3]},{False,True})
+
