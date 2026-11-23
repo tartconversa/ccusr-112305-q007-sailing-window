@@ -1,0 +1,47 @@
+[
+  {
+    "lot": "C11",
+    "desk": "D0",
+    "ready_state": "完工",
+    "inspected": "通过",
+    "estimated_ready": 8,
+    "loaded": false,
+    "ready_at": 8
+  },
+  {
+    "lot": "C12",
+    "desk": "D0",
+    "ready_state": "返检中",
+    "inspected": "需返检",
+    "estimated_ready": 21,
+    "loaded": false,
+    "ready_at": null
+  },
+  {
+    "lot": "C21",
+    "desk": "D0",
+    "ready_state": "返检中",
+    "inspected": "待确认",
+    "estimated_ready": 19,
+    "loaded": false,
+    "ready_at": null
+  },
+  {
+    "lot": "C22",
+    "desk": "D1",
+    "ready_state": "完工",
+    "inspected": "通过",
+    "estimated_ready": 22,
+    "loaded": true,
+    "ready_at": 22
+  },
+  {
+    "lot": "C31",
+    "desk": "D1",
+    "ready_state": "待出检",
+    "inspected": "待确认",
+    "estimated_ready": 30,
+    "loaded": false,
+    "ready_at": null
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "lot": "C12",
+    "hour": 18,
+    "inspected": "需返检",
+    "new_ready": 32,
+    "loaded": false
+  },
+  {
+    "lot": "C21",
+    "hour": 18,
+    "inspected": "通过",
+    "new_ready": 21,
+    "loaded": false
+  },
+  {
+    "lot": "C22",
+    "hour": 19,
+    "inspected": "通过",
+    "new_ready": 22,
+    "loaded": true
+  },
+  {
+    "lot": "C12",
+    "hour": 29,
+    "inspected": "通过",
+    "new_ready": 35,
+    "loaded": false
+  }
+]

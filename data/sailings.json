@@ -1,0 +1,46 @@
+[
+  {
+    "sailing": "S1",
+    "destination": "北港",
+    "cut_h": 22,
+    "depart_h": 32,
+    "cap_pieces": 70,
+    "box": "NC",
+    "cancel_h": 19,
+    "cancel_fee": 85,
+    "emergency_fee": 190
+  },
+  {
+    "sailing": "S2",
+    "destination": "北港",
+    "cut_h": 40,
+    "depart_h": 56,
+    "cap_pieces": 68,
+    "box": "NC",
+    "cancel_h": 36,
+    "cancel_fee": 65,
+    "emergency_fee": 205
+  },
+  {
+    "sailing": "S3",
+    "destination": "北港",
+    "cut_h": 66,
+    "depart_h": 76,
+    "cap_pieces": 66,
+    "box": "NC",
+    "cancel_h": 60,
+    "cancel_fee": 60,
+    "emergency_fee": 170
+  },
+  {
+    "sailing": "S4",
+    "destination": "南港",
+    "cut_h": 34,
+    "depart_h": 46,
+    "cap_pieces": 45,
+    "box": "SC",
+    "cancel_h": 26,
+    "cancel_fee": 55,
+    "emergency_fee": 230
+  }
+]

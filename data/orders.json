@@ -1,0 +1,62 @@
+[
+  {
+    "order": "O1",
+    "bundle": "整套",
+    "lot": "C11",
+    "pieces": 30,
+    "split_min_batch": null,
+    "min_gap_h": 0,
+    "separate_sail": false,
+    "product": "右手",
+    "destination": "北港",
+    "penalty": 760
+  },
+  {
+    "order": "O1",
+    "bundle": "整套",
+    "lot": "C12",
+    "pieces": 30,
+    "split_min_batch": null,
+    "min_gap_h": 0,
+    "separate_sail": false,
+    "product": "左手",
+    "destination": "北港",
+    "penalty": 760
+  },
+  {
+    "order": "O2",
+    "bundle": "可拆",
+    "lot": "C21",
+    "pieces": 24,
+    "split_min_batch": 18,
+    "min_gap_h": 24,
+    "separate_sail": true,
+    "product": "护腕",
+    "destination": "北港",
+    "penalty": 280
+  },
+  {
+    "order": "O2",
+    "bundle": "可拆",
+    "lot": "C22",
+    "pieces": 18,
+    "split_min_batch": 18,
+    "min_gap_h": 24,
+    "separate_sail": true,
+    "product": "护腕",
+    "destination": "北港",
+    "penalty": 280
+  },
+  {
+    "order": "O3",
+    "bundle": "整套",
+    "lot": "C31",
+    "pieces": 20,
+    "split_min_batch": null,
+    "min_gap_h": 0,
+    "separate_sail": false,
+    "product": "手套",
+    "destination": "南港",
+    "penalty": 540
+  }
+]

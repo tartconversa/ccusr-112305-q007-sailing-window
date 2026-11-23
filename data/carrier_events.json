@@ -1,0 +1,60 @@
+[
+  {
+    "event": "预订",
+    "booking": "B1",
+    "order": "O1",
+    "lots": [
+      "C11",
+      "C12"
+    ],
+    "sailing": "S1",
+    "hour": 10,
+    "state": "接受"
+  },
+  {
+    "event": "预订",
+    "booking": "B2",
+    "order": "O2",
+    "lots": [
+      "C22"
+    ],
+    "sailing": "S2",
+    "hour": 11,
+    "state": "接受"
+  },
+  {
+    "event": "撤改",
+    "booking": "B3",
+    "order": "O1",
+    "lots": [
+      "C11",
+      "C12"
+    ],
+    "sailing": "S2",
+    "hour": 19,
+    "state": "待答复"
+  },
+  {
+    "event": "撤改",
+    "booking": "B3",
+    "order": "O1",
+    "lots": [
+      "C11",
+      "C12"
+    ],
+    "sailing": "S2",
+    "hour": 21,
+    "state": "拒绝"
+  },
+  {
+    "event": "反馈",
+    "booking": "B4",
+    "order": "O3",
+    "lots": [
+      "C31"
+    ],
+    "sailing": "S4",
+    "hour": 31,
+    "state": "接受"
+  }
+]
